@@ -1,0 +1,5 @@
+{
+  "name": "Shade Temperature Calculator",
+  "description": "An interactive tool to estimate the 'feels like' temperature in the shade of a tree based on real-time weather conditions like air temperature, humidity, and wind speed.",
+  "requestFramePermissions": []
+}
